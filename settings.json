@@ -1,0 +1,17 @@
+{
+  "rankingRules": [
+    "words",
+    "typo",
+    "proximity",
+    "attribute",
+    "sort",
+    "exactness",
+    "population:desc"
+  ],
+  "filterableAttributes": [
+    "_geo"
+  ],
+  "sortableAttributes": [
+    "_geo"
+  ]
+}

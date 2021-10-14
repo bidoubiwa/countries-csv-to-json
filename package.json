@@ -1,0 +1,11 @@
+{
+  "name": "countries-csv-to-json",
+  "version": "1.0.0",
+  "description": "Transform the 1.5GB countries.csv to a small size countries.jsonl",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "meilisearch": "^0.22.1"
+  }
+}
